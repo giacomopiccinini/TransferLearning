@@ -1,4 +1,7 @@
-black
-comet_ml==3.31.16
+matplotlib==3.6.2
+numpy==1.23.4
+opencv_python==4.6.0.66
+PyYAML==6.0
 tensorflow==2.10.0
-keras==2.10.0
+tensorflow_datasets==4.7.0
+tqdm==4.64.1
