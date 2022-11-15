@@ -3,3 +3,4 @@ venv/
 *.jpg
 *.png
 *.hdf5
+*.ipynb
