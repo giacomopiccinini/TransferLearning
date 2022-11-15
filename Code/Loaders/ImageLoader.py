@@ -132,7 +132,3 @@ class ImageLoader(Sequence):
         )
 
         return dataset
-    
-    
-    
-
